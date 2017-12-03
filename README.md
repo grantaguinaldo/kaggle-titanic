@@ -1,1 +1,5 @@
-# kaggle-titanic
+# Kaggle Titanic
+
+This repo contains the files from the Titanic dataset on Kaggle.com.  A [link](https://www.kaggle.com/c/titanic/data) to the dataset on the kaggle website is provided. 
+
+***
